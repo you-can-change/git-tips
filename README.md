@@ -736,7 +736,7 @@ echo '{ "path": "cz-conventional-changelog" }' > ~/.czrc
 
 ![](./assets/gitcz.png)
 
-## 联系我
+## 联系上游作者
 - 博客园：[削微寒](http://www.cnblogs.com/xueweihan/)
 - 或者直接提 Pr，Issues
 
